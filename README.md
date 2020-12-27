@@ -4,3 +4,4 @@ This repository has the necessary code to duplicate the results obtained in the 
 
 The results of this research can be found here:
 
+https://github.com/Dangaran/Chapter_2/blob/main/Chapter_2.pdf
